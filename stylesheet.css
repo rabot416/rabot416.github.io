@@ -11,15 +11,6 @@ a {
   text-decoration: none;
 }
 
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  /* Gantikan property display ke none */
-  display: none;
-}
-
 .clear {
   clear: left;
 }
@@ -97,6 +88,15 @@ header {
   position :fixed;
   top: 0;
   z-index: 10;
+}
+
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  /* Gantikan property display ke none */
+  display: none;
 }
 
 .logo {
