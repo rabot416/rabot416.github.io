@@ -11,6 +11,7 @@ a {
   text-decoration: none;
 }
 
+
 .clear {
   clear: left;
 }
@@ -24,7 +25,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-image: url(https://github.com/rabot416/rabot416.github.io/blob/master/undraw_social_friends_nsbv.png);
   background-size: cover;
   color: white;
   text-align: center;
@@ -79,33 +80,25 @@ a {
 
 .fa {
   margin-right: 5px;
-  display: none;
 }
 
 header {
-  height: 65px;
+  height: 70px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: rgba(41, 128, 185,1.0);
   position :fixed;
   top: 0;
   z-index: 10;
 }
 
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display: none;
-}
-
-.logo {
-  width: 124px;
-  margin-top: 20px;
-}
-
 .header-left {
   float: left;
+  color: white;
+  
+}
+
+.header-left h3 {
+  font-weight: normal;
 }
 
 .header-right {
@@ -125,6 +118,17 @@ header {
 .header-right a:hover {
   background-color: rgba(255, 255, 255, 0.3);
 }
+
+/* Tambahkan CSS untuk menu-icon */
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  /* Gantikan property display ke none */
+  display: none;
+}
+
 
 .lesson-wrapper {
   padding-bottom: 80px;
