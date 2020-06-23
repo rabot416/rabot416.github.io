@@ -12,6 +12,11 @@
   .heading h2 {
     font-size: 20px;
   }
+  
+  footer {
+    background-color: #000000;
+    color: #FFA500;
+  }
 }
 
 /* Untuk Smartphone */
