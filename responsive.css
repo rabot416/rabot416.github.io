@@ -23,17 +23,9 @@
   footer {
     text-align: center;
     background-color: #000000;
+    color: #FFA500;
   }
-  
-  footer h3 {
-  color: #FFA500;
-}
 
-  footer p {
-  color: #FFA500;
-
-}
-  
   .btn {
     width: 100%;
   }
