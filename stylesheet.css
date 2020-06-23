@@ -36,11 +36,13 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
+  text-shadow: 2px 2px #ffffff;
 }
 
 .top-wrapper p {
   opacity: 0.7;
   margin-bottom: 3px;
+  text-shadow: 2px 2px #ffffff;
 }
 
 .btn-wrapper {
@@ -84,8 +86,7 @@ a {
 
 .logo {
   width: 50px;
-  margin-top: 5px;
-  margin-down: 5px;
+  margin-top: 20px;
 }
 
 header {
