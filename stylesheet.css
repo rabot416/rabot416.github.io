@@ -27,7 +27,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(https://miro.medium.com/max/3240/1*-Az7OcxNpaO8S4RtM-yozg.jpeg);
   background-size: cover;
-  color: white;
+  color: orange;
   text-align: center;
 }
 
@@ -86,7 +86,7 @@ a {
 
 .logo {
   width: 50px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 header {
