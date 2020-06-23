@@ -36,13 +36,13 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
-  text-shadow: 2px 2px #ffffff;
+  text-shadow: 2px 2px #000000;
 }
 
 .top-wrapper p {
   opacity: 0.7;
   margin-bottom: 3px;
-  text-shadow: 2px 2px #ffffff;
+  text-shadow: 2px 2px #000000;
 }
 
 .btn-wrapper {
