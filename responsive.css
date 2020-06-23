@@ -22,7 +22,17 @@
   
   footer {
     text-align: center;
+    background-color: #000000;
   }
+  
+  footer h3 {
+  color: #FFA500;
+}
+
+  footer p {
+  color: #FFA500;
+
+}
   
   .btn {
     width: 100%;
@@ -44,6 +54,7 @@
   /* Tambahkan CSS untuk menu-icon */
   .menu-icon {
     display: block;
+    color: orange;
   }
   
   .top-wrapper h1 {
