@@ -82,6 +82,10 @@ a {
   margin-right: 5px;
 }
 
+.logo {
+ width: 150px;
+}
+
 header {
   height: 65px;
   width: 100%;
