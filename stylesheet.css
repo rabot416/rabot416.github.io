@@ -27,7 +27,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(https://miro.medium.com/max/3240/1*-Az7OcxNpaO8S4RtM-yozg.jpeg);
   background-size: cover;
-  color: black;
+  color: white;
   text-align: center;
 }
 
@@ -91,7 +91,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(0,0,0,0);
+  background-color: rgba(0,0,0,1);
   position :fixed;
   top: 0;
   z-index: 10;
