@@ -112,7 +112,7 @@ header {
 .header-right a {
   line-height: 75px;
   padding: 0 25px;
-  color: white;
+  color: orange;
   display: block;
   float: left;
   transition: all 0.5s;
@@ -124,7 +124,7 @@ header {
 
 /* Tambahkan CSS untuk menu-icon */
 .menu-icon {
-  color: white;
+  color: orange;
   float: right;
   font-size: 25px;
   padding: 21px 0;
@@ -203,11 +203,12 @@ footer h3 {
 }
 
 footer p {
-  color: #b3aeb5;
+  color: #ffffff;
   font-size: 12px;
 }
 
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  background-color: #000000;
 }
