@@ -199,12 +199,14 @@ header {
 }
 
 footer h3 {
+  color: #FFA500;
   font-weight: bold;
 }
 
 footer p {
-  color: #ffffff;
+  color: #FFA500;
   font-size: 12px;
+  font-weight: bold;
 }
 
 footer {
